@@ -57,9 +57,9 @@ You can customize the book source, set your own rules, and capture web page data
 
 * [Releases](https://github.com/gedoor/legado/releases/latest)
 * [Google play - $1.99](https://play.google.com/store/apps/details?id=io.legado.play.release)
-* [Coolapk](https://www.coolapk.com/apk/io.legado.app.release)
+* [Coolapk](https://www.coolapk.com/apk/com.squirrel.novel.release)
 * [\#Beta](https://kunfei.lanzoui.com/b0f810h4b)
-* [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)
+* [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/com.squirrel.novel.release)
 
 
 #### IOS

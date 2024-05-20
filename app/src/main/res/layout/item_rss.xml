@@ -9,7 +9,7 @@
     android:background="@drawable/bg_item_focused_on_tv"
     android:foreground="?android:attr/selectableItemBackground">
 
-    <io.legado.app.ui.widget.image.FilletImageView
+    <com.squirrel.base.ui.widget.image.FilletImageView
         android:id="@+id/iv_icon"
         android:layout_width="50dp"
         android:layout_height="50dp"

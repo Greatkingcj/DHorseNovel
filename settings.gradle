@@ -47,9 +47,10 @@ dependencyResolutionManagement {
 }
 rootProject.name = 'legado'
 
-include ':app'
+include ':base'
 include ':modules:book'
 include ':modules:rhino'
 include ':biz_setting'
 include ':lib_resources'
 include ':lib_ui'
+include ':app'

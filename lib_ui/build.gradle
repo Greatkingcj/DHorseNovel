@@ -1,14 +1,13 @@
 plugins {
-    alias(libs.plugins.android.application)
+    alias libs.plugins.android.library
     alias(libs.plugins.kotlin.android)
 }
 
 android {
-    namespace 'com.dhorse.novel.ui'
+    namespace 'com.dhorse.ui'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.dhorse.novel.ui"
         minSdk 24
         targetSdk 34
         versionCode 1

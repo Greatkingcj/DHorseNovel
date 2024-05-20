@@ -80,7 +80,7 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-    <io.legado.app.ui.widget.anima.RotateLoading
+    <com.squirrel.base.ui.widget.anima.RotateLoading
         android:id="@+id/rotate_loading"
         android:layout_width="48dp"
         android:layout_height="48dp"
@@ -89,7 +89,7 @@
         app:layout_constraintTop_toTopOf="@id/book_info"
         app:layout_constraintBottom_toBottomOf="@+id/book_info" />
 
-    <io.legado.app.ui.widget.text.AccentTextView
+    <com.squirrel.base.ui.widget.text.AccentTextView
         android:id="@+id/tv_ok"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -109,7 +109,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toLeftOf="@+id/tv_ok" />
 
-    <io.legado.app.ui.widget.text.AccentTextView
+    <com.squirrel.base.ui.widget.text.AccentTextView
         android:id="@+id/tv_read"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
